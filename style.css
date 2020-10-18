@@ -1,0 +1,61 @@
+/*
+* Theme Name: AVA ROSSIGNOL INSIDE
+* Version: 0.9 Beta
+* Author: MADAVA
+* Description: Ceci est une version beta avant validation
+*/
+
+.site-main {
+  min-height: 100vh;
+}
+.uk-button-radius {
+  border-radius: 20px;
+}
+body {
+  background-color: #f4f4f4;
+}
+.default-link:hover {
+  text-decoration: none;
+}
+.white-text {
+  color: white !important;
+}
+/*Section Mot du president*/
+.quote_section {
+    position: relative;
+    padding: 0px 135px;
+}
+.quote_section p {
+    font-family: 'Lato',sans-serif;
+    font-style: italic;
+    font-size: 18px;
+    font-weight: 300;
+    color: #888888;
+    text-align: center;
+    position: relative;
+}
+.quote_section p b {
+    display: inline-block;
+    font-size: 22px;
+    left: -9px;
+    position: relative;
+    top: -8px;
+}
+.quote_section p small {
+    display: inline-block;
+    right: -9px;
+    position: relative;
+    top: 4px;
+}
+.clear {
+    clear: both;
+    display: block;
+    overflow: hidden;
+    visibility: hidden;
+    width: 0;
+    height: 0;
+}
+.president_name{
+  font-style: normal;
+  font-weight: 600;
+}
